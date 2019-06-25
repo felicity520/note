@@ -18,9 +18,9 @@ git pull origin master
 帮助命令，后面加-h  或者是 git --help
 比如：git rm -h
 
-
+---------------------------------------------------------------------------------
 在本地删除远程仓库：
-参考博客：
+参考博客：https://www.cnblogs.com/imyalost/p/9259149.html
 1、拉取远程仓库的文件到本地：
 git clone https://github.com/felicity520/note.git
 PS：如希望将远程仓库的文件拉取到本地指定文件夹则需要先进入对应的文件夹目录下

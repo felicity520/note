@@ -8,7 +8,10 @@ git pull origin master
 git push origin master
 
 报错原因：
-在哪里pull就在哪里push，push之前先使用git pull origin master这句话
+在哪里pull就在哪里push，push之前先git pull origin master，然后再git push origin master
 
 报错二：
 fatal: couldn't find remote ref master
+
+报错原因：
+致命：找不到远程引用主机

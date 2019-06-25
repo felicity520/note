@@ -19,3 +19,5 @@ git pull origin master
 比如：git rm -h
 
 
+在本地删除远程仓库：
+1、

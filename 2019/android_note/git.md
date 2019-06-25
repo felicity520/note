@@ -25,5 +25,7 @@ git pull origin master
 git clone https://github.com/felicity520/note.git
 PS：如希望将远程仓库的文件拉取到本地指定文件夹则需要先进入对应的文件夹目录下
 cd D:/Software/
-2、git rm -r file
--r是递归删除
+2、git rm -r file -r是递归删除
+git status
+3、提交修改后的文件到远程仓库
+git com

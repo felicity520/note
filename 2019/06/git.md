@@ -14,3 +14,8 @@ git push -u origin master
 
 将远程仓库里面的项目拉下来
 git pull origin master 
+
+帮助命令，后面加-h  或者是 git --help
+比如：git rm -h
+
+

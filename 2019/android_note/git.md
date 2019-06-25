@@ -20,4 +20,7 @@ git pull origin master
 
 
 在本地删除远程仓库：
-1、
+参考博客：
+1、拉取远程仓库的文件到本地：
+git clone https://github.com/felicity520/note.git
+2、

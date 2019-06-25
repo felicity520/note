@@ -8,7 +8,7 @@ git pull origin master
 git push origin master
 
 报错原因：
-
+在哪里pull就在哪里
 
 报错二：
 fatal: couldn't find remote ref master

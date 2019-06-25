@@ -28,4 +28,7 @@ cd D:/Software/
 2、git rm -r file -r是递归删除
 git status
 3、提交修改后的文件到远程仓库
-git com
+git commit -m ‘删除了file文件’
+4、push到远程仓库
+git pull origin master
+git push origin master

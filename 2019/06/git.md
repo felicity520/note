@@ -11,3 +11,6 @@ git remote add origin git@github.com:zhouxihi/ZXTabBarController.git
 
 推送文件到远程仓库
 git push -u origin master
+
+将远程仓库里面的项目拉下来
+git pull origin master 

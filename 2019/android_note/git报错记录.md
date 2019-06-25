@@ -7,5 +7,8 @@ error: failed to push some refs to 'https://github.com/felicity520/Gitnote.git'
 git pull origin master
 git push origin master
 
+报错原因：
+
+
 报错二：
 fatal: couldn't find remote ref master
